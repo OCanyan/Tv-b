@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",TVB
+#EXTINF:-1 tvg-name="TVB" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="Hong Kong",TVB
 https://live.tvfix.org/live/jade/index.m3u8
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="Hongkong",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="Hong Kong",翡翠台
 https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
